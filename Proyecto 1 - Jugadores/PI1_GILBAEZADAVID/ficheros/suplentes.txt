@@ -1,0 +1,20 @@
+Alex # Alero # Escolta # 1# España # 2 # 5 #1
+Carlos # AleroPivot # Pivot #4 # España # 4 # 4 # 4
+Jordi # Pivot # AleroPivot # 3 # España # 5 # 3 # 3
+Victor # Escolta # AleroPivot #1 # España # 1 # 3 # 1
+Fran # AleroPivot # Escolta # 2 # España # 2 # 5 # 2
+Michael # Base # Escolta # 3 # USA # 3 # 3 # 5
+Drazen # Pivot # Escolta # 1 # Croacia # 2 # 1 # 4
+Emanuel # Base # Pivot # 2 # Argentina # 2 # 3 # 2
+Toni # Alero # Pivot # 2 # Croacia # 2 # 5 # 2
+Yao # AleroPivot # Alero # 3 # Francia # 3 # 3 # 3
+Pablo # Base # Escolta # 4 # Argentina # 4 # 4 # 4
+Dino # Pivot # Pivot # 2 # Croacia # 2 # 2 # 2
+Lamarcus # Base # AleroPivot # 2 # USA # 2 # 2 # 2
+Mark # Alero # Pivot # 1 # USA # 1 # 5 # 3
+Juan # Base # Base # 3 # Argentina # 3 # 3 # 3
+Homero # Pivot # AleroPivot # 4 # Argentina # 4 # 2 # 4
+Chris # Base # Base # 5 # USA # 5 # 5 # 5
+Joseph # AleroPivot # Escolta # 1 # Francia # 1 # 5 # 3
+Zoran # Pivot # Alero # 2 # Croacia # 4 # 3 # 2
+Laurent # Base # Escolta # 3 # Francia # 3 # 3 # 3

@@ -1,0 +1,13 @@
+max: 5x0 + 1x0 + 4x1 + 4x1 + 3x2 + 3x2 + 3x3 + 1x3 + 5x4 + 2x4 + 3x5 + 5x5 + 1x6 + 4x6 + 3x7 + 2x7 + 5x8 + 2x8 + 3x9 + 3x9 + 4x10 + 4x10 + 2x11 + 2x11 + 2x12 + 2x12 + 5x13 + 3x13 + 3x14 + 3x14 + 2x15 + 4x15 + 5x16 + 5x16 + 5x17 + 3x17 + 3x18 + 2x18 + 3x19 + 3x19; // Función objetivo
+
+x0 + x1 + x2 + x3 + x4 + x5 + x6 + x7 + x8 + x9 + x10 + x11 + x12 + x13 + x14 + x15 + x16 + x17 + x18 + x19 = 7; // Restricción num suplentes
+
+x1 + x2 + x6 + x7 + x8 + x11 + x13 + x15 + x18 >= 2; // Restricción Pivot
+
+x0 + x8 + x9 + x13 + x18 >= 3; // Restricción Alero
+
+x5 + x7 + x10 + x12 + x14 + x16 + x19 = 1; // Restricción Base
+
+1x0 + 4x1 + 3x2 + 1x3 + 2x4 + 3x5 + 1x6 + 2x7 + 2x8 + 3x9 + 4x10 + 2x11 + 2x12 + 1x13 + 3x14 + 4x15 + 5x16 + 1x17 + 2x18 + 3x19 <= 10; // Restricción presupuesto
+
+bin x0, x1, x2, x3, x4, x5, x6, x7, x8, x9, x10, x11, x12, x13, x14, x15, x16, x17, x18, x19; // Declaración variables
